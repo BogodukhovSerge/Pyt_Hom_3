@@ -11,4 +11,4 @@ count = 0
 for i in range(n):
     if arr[i] == x:
         count += 1
-print("Число {x} встречается в списке А {count} раз")
+print(f"Число {x} встречается в списке А {count} раз")
